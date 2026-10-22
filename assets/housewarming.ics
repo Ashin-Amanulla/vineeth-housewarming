@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Neeharam//Housewarming Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:neeharam-housewarming-20270102@vineeth-aparna
+DTSTAMP:20261022T000000Z
+DTSTART:20270102T103000Z
+DTEND:20270102T153000Z
+SUMMARY:Housewarming of Vineeth & Aparna · Neeharam
+LOCATION:Neeharam (11.2950106\, 75.8949568)
+GEO:11.2950106;75.8949568
+DESCRIPTION:With gratitude and joy\, we cordially invite you to the housewa
+ rming ceremony of our new home\, Neeharam. 4:00 PM onwards.\n\nDirections
+ : https://www.google.com/maps/dir/?api=1&destination=11.2950106\,75.894956
+ 8
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Housewarming at Neeharam tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR
